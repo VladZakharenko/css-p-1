@@ -115,16 +115,16 @@
 }
 
 .task_9 h1 {
-  word-break: keep-all;
+  overflow-wrap: normal;
   word-spacing: 30px;
 }
 
 .task_9 div {
-  hyphens: manual;
+  hyphens: auto;
 }
 
 .task_9 p {
-  word-break: break-word;
+  word-break: break-all;
 }
 
 .task_9 textarea {
